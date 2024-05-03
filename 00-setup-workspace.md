@@ -20,7 +20,7 @@
 
     ![Create Apache Spark pool page is open. Apache Spark version set to 3.1 is highlighted.](media/spark-version-selection.png "Spark Version Selection")
 
-9. Create another Apache Spark pool named `SparkPool02`. Ensure Apache Spark version is set to 2.4.
+9. Create another Apache Spark pool named `SparkPool02`. Ensure Apache Spark version is set to 2.4.(SKIP THIS PART)
 
     >NOTE:
     >
